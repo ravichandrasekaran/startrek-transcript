@@ -1,14 +1,5 @@
-[['I', "'d", 'like', 'some', 'place', 'to', 'play', 'some', 'music', '.'],
- ['I', 'need', 'my', 'appointment', 'schedule', 'for', 'next', 'week', '.'],
- ['I', 'wish', 'to', 'know', 'more', 'about', 'humour', '.'],
- ['Lal', 'gender', 'sequence', 'finalists', '.'],
- ['Rosseau', 'Five', '.'],
- ['please', 'replicate', 'one', 'viola', '.'],
- ['fix', 'the', 'food', 'slot', '.'],
- ['deactivate', 'food', 'slot', '.'],
 
-
-FOOD & DRINK
+FOOD & DRINK & STUFF
  ['Thalian', 'chocolate', 'mousse', '.'],
  ['a', 'glass', 'of', 'water', ',', 'five', 'degrees', '.'],
  ['champagne', '.'],
@@ -17,6 +8,7 @@ FOOD & DRINK
  ['valerian', 'root', 'tea', ',', 'hot', '.'],
  ['bring', 'replicators', 'back', 'online', 'and', 'give', 'me', 'a', 'cup', 'of', 'Daren', 'herbal', 'tea', 'blend', 'number', 'three', ',', 'hot', '.'],
  ['water', '.'],
+ ['please', 'replicate', 'one', 'viola', '.'],
 
 PROGRAMME / ARCH / PLAYBACK
  ['activate', 'Picard', 'Mozart', 'trio', ',', 'programme', 'one', '.'],
@@ -143,6 +135,7 @@ PROGRAMME / ARCH / PLAYBACK
  ['three', 'metre', 'cross', 'seal', '.'],
  ['level', 'two', '.'],
  ['show', 'me', 'a', 'rectangular', 'conference', 'table', '.'],
+ ['I', "'d", 'like', 'some', 'place', 'to', 'play', 'some', 'music', '.'],
 
 
 TURBOLIFT
@@ -254,6 +247,8 @@ INFORMATION
  ['access', 'the', 'exocomp', "'s", 'sensor', 'logs', '.'],
  ['access', 'the', 'transporter', 'ID', 'trace', 'for', 'Ambassador', "T'Pel", '.'],
  ['access', 'visual', 'output', '.'],
+ ['I', 'need', 'my', 'appointment', 'schedule', 'for', 'next', 'week', '.'],
+ ['I', 'wish', 'to', 'know', 'more', 'about', 'humour', '.'],
  ['open', 'Uhnari', 'correspondence', 'file', '.'],
  ['biographical', 'file', 'on', 'trader', 'Kivas', 'Fajo', '.'],
  ['download', 'all', 'information', 'regarding', 'signal', 'beacon', 'from', 'Starbase', 'mainframe', '.'],
@@ -353,6 +348,8 @@ DO
  ['activate', 'anti-grav', 'unit', '.'],
  ['activate', 'force', 'field', '.'],
  ['activate', 'security', 'containment', 'field', '.'],
+ ['fix', 'the', 'food', 'slot', '.'],
+ ['deactivate', 'food', 'slot', '.'],
  ['execute', 'my', 'original', 'command', '.'],
  ['belay', 'that', 'order', '!'],
  ['belay', 'that', 'order', '.'],
@@ -408,10 +405,11 @@ COMMUNICATION
  ['did', 'you', 'change', 'course', '?'],
 
 
+OTHER JUNK 
+ ['Lal', 'gender', 'sequence', 'finalists', '.'],
+ ['Rosseau', 'Five', '.'],
 
-
-
- ['put', 'controls', 'on', 'the', 'restraining', 'arm', '.'],
+['put', 'controls', 'on', 'the', 'restraining', 'arm', '.'],
  ['there', 'were', 'noises', 'coming', 'from', 'the', 'darkness', '.'],
 
  ['initiate', 'cascade', 'sequence', ',', 'accepting', 'instructions', 'from', 'Commander', 'Data', 'en', 'route', '.'],
